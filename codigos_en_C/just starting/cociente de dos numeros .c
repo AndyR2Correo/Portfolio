@@ -1,5 +1,5 @@
 //Programador: Andy Rodriguez Rodriguez 
-/*Calcular cociente de dos numeros*/
+/*Calcular cociente de dos numeros.*/
 #include<stdio.h>
 int main()
 {
